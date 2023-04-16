@@ -9,3 +9,6 @@ There is a custom exception that handles any invalid expression and throws an ER
 
 The program utilizes javafx in order to create the GUI.
 
+To use this program you must first download all files and ensure Javafx is downloaded.
+Because I do not know how to make applications this must be run in a IDE.
+Once everything is downloaded, use the CalcLauncher to run it.
